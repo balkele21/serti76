@@ -121,16 +121,7 @@ addEventListener(
 ```
 </details>
 
-## OpenWrt优选IP脚本自动更新：
 
-* [CloudflareST](https://github.com/Lbingyi/CloudflareST) `OpenWrt推荐-速度较快`
-* [cf-autoupdate](https://github.com/Lbingyi/cf-autoupdate) `OpenWrt推荐`
 
-> [更多来自热心网友PR的使用教程](/tutorial)
 
-### 特别感谢 ：
 
-* [mixool](https://github.com/mixool/)
-* [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
-* [yxhit](https://github.com/yxhit)
-* [badafans](https://github.com/badafans/better-cloudflare-ip/tree/20201208)
